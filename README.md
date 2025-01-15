@@ -2,7 +2,7 @@
 - 👀 I’m interested in Reliability Test Engineering
 - 🌱 I’m currently learning a python for reliability
 - 💞️ I’m looking to collaborate on method about vibration analysis method
-- 📫 How to reach me ...
+- 📫 How to reach me : illubitare@gmail.com
 
 <!---
 vallinore/vallinore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
