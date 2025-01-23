@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vallinore
-- 👀 I’m interested in Reliability Test Engineering
-- 🌱 I’m currently learning a python for reliability
-- 💞️ I’m looking to collaborate on method about vibration analysis method
+- 👀 I’m interested in Reliability
+- 🌱 I’m currently learning a python for reliability & coin digging 
+- 💞️ I’m looking for all digging method about Reliability Test & Coin etc.
 - 📫 How to reach me : illubitare@gmail.com
 
 <!---
